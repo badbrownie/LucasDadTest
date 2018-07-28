@@ -1,3 +1,5 @@
 # LucasDadTest
 
-blah blah
+Alan is cool,
+Lucas is a fool
+
